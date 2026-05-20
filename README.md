@@ -74,7 +74,7 @@ binance-futures-testnet-trading-bot/
 ## 1. Clone Repository
 
 ```bash
-git clone <your_github_repository_url>
+git clone https://github.com/DevPatel1479/binance-futures-testnet-trading-bot.git
 ```
 
 ---
